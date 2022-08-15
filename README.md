@@ -2,4 +2,8 @@
 
 ### Certist contracts are used to define the certificate-contract standard, and show the example implementations for contracts.
 
-### project uses truffle.
+### Project uses truffle.
+
+**TO RUN TESTS**
+
+`npm run test` or `truffle test`
