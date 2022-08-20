@@ -1,0 +1,27 @@
+{
+  "name": "certist-contracts",
+  "version": "1.0.0",
+  "description": "Contract standard for issueing certificates.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://0toepoweripi@github.com/epoweripi-com/certist-contracts.git"
+  },
+  "keywords": [
+    "Certificates",
+    "Web3",
+    "Smart Contract",
+    "Blockchain"
+  ],
+  "author": "Ashish Sontakke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epoweripi-com/certist-contracts/issues"
+  },
+  "homepage": "https://github.com/epoweripi-com/certist-contracts#readme"
+}
